@@ -91,7 +91,7 @@
         <input type="text" name="user" placeholder="Your Full Name"/>
         <input type="email" name="email" placeholder="Your E-Mail"/>
         <textarea name="message" placeholder="Type  Your Message Here.........."> </textarea>
-        <button class="main-btn">Continue</button>
+        <button class="main-btn contact-btn">Continue</button>
     </form>
 </section>
 </body>
