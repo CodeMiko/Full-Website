@@ -179,6 +179,9 @@ nav ul li a:hover{
     font-size: 1.1rem;
     color: #4b4b4b;
 }
+.about-text button{
+    float: right;
+}
 
 
 

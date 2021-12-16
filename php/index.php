@@ -78,7 +78,7 @@
 <div class="about-text">
     <h2> Start Tracking Your Statistics </h2>
     <p>The term “data tracking” describes the hardware and software, which when used together allows you to know where something is at any point in time.</p>
-    <a class= "main-btn" href="#"></a>
+    <button class= "main-btn" >Read More</button>
 </div>
 
 </section>
