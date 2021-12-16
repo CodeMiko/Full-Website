@@ -7,7 +7,7 @@ body {
     font-family: 'Raleway', sans-serif;
     background-color: #fff;
 }
-ul{
+a{
     text-decoration: none;
 }
 ul{
@@ -137,7 +137,7 @@ nav ul li a:hover{
 }
 .f-text{
     width: 100px;
-    height: 30px;
+    height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -218,7 +218,6 @@ nav ul li a:hover{
     background-color: #e2e2e2;
     color: #1e1e1e;
     border-radius: 5px;
-
 }
 .contact form textarea{
     height: 150px;

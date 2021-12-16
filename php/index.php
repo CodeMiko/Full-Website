@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Dynamic Website</title>
     <link rel= "stylesheet" href="css/style.css"/>
@@ -19,7 +18,7 @@
             <li> <a href= "#" class="active"> Home </a> </li>
             <li> <a href= "#"> Features </a> </li>
             <li> <a href= "#"> About </a> </li>
-            <li> <a href= "#"> Contract </a> </li>
+            <li> <a href= "#"> Contact </a> </li>
 
 
 </ul>
@@ -31,7 +30,9 @@
 
          <p> Give to the needy today. The covid-19 pandemic has hit us hard than good and low income-families suffer most. Low-income families who are strongly to feed can not provide essential services to their families. Your gift today can help make a change to their families and their communities. Without the donations we received from December 2020 till date from individuals and corporation organizations donors, our ongoing back to school campaign could not be possible. The funds we received helped us to support over 476 unfortunate children's with school supplies, scholarships to orphans girls in secondary school and we were able to construct toilet blocks to end open defecation in the schools. We encourage you to continue supporting our initiatives to achieve more goals in various rural communities we serves. No amount is too small to support our missions.</p>
          <a class= "main-btn" href="#"> Contact </a>
+</div>
 </section>
+
 <section class="features">
     <div class="feature-container">
          
