@@ -87,7 +87,7 @@
         <h1>Contact Us</h1>
         <p>011-2446241/077-2300770</p>
     </div>
-    <form >
+    <form action="userinformation.php" method="post">
         <input type="text" name="user" placeholder="Your Full Name"/>
         <input type="email" name="email" placeholder="Your E-Mail"/>
         <textarea name="message" placeholder="Type  Your Message Here.........."> </textarea>
