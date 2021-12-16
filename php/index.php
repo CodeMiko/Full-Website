@@ -82,5 +82,17 @@
 </div>
 
 </section>
+<section class="contact">
+    <div class="contact-heading">
+        <h1>Contact Us</h1>
+        <p>011-2446241/077-2300770</p>
+    </div>
+    <form >
+        <input type="text" name="user" placeholder="Your Full Name"/>
+        <input type="email" name="email" placeholder="Your E-Mail"/>
+        <textarea name="message" placeholder="Type  Your Message Here.........."> </textarea>
+        <button class="main-btn">Continue</button>
+    </form>
+</section>
 </body>
 </html>
